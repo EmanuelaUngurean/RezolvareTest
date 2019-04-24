@@ -1,1 +1,17 @@
 Consider that you have found a defect in the form for the previous exercise. Create a bug report for it.
+
+      Bug Report
+ 
+  Title: Error to creat account;
+  Build: http://diprella.com; (just for example)
+  Severity: High
+  Steps to reproduce: 1. Open the URL;
+                      2. Intoduce Name;
+                      3. Intoduce Email;
+                      4. Intoduce Password;
+                      3. Click Sign Up.
+  
+  Description: We want to create an account but we can't do this because we receive an error message.
+  
+  Expected result: We have to receive a message that we creat our account;
+  Actual result:   We receive an error message.
