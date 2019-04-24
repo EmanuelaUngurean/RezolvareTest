@@ -1,1 +1,6 @@
 Name the difference between agile & v-model. (Please specify some roles and cycles for these)
+
+Agile is an incremental and iterative development method. This development method minimise the risk creating software in short time, using periods named iterations that can last from one week to one month. Is used for big projects, but needs more money than for the V-model and also we lose documentation.
+
+Agile is a secvential and linear development method. In this method testing goes in paralel with developing and it supporting early testing. Is used for small projects.
+
