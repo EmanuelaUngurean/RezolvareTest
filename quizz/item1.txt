@@ -1,1 +1,12 @@
 What is regression? What is retesting?
+
+For regression:  1. We test an application and we find a bug;
+                 2. We send that bug to the developers;
+                 3. The developers fix the bug;
+                 4. We have to test all the features that we suppose the fixed bug has impact.
+
+For retesting: 1. We test an application and we find a bug;
+               2. We send that bug to the developers;
+               3. The developers fix the bug;
+               4. We have to test just the behavior of that fixed bug.
+

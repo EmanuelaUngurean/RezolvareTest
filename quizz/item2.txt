@@ -1,1 +1,4 @@
 What is the relationship between the following: error, bug, defect, fault, failure.
+
+Bug is an error caused by a code which was wrong implemented. If we find an error we have a defect and if we have a defect we arrive to a failure. The following scheme is more accurate:
+                                          error => defect => failure

@@ -1,3 +1,42 @@
 In the images folder you have a login form. Create Test Cases for the given form.
 
 Please state the testing types(functional, non-functional, black box, white box, design technique) for each TC created.
+
+1. Feature name: Sign in
+   Test Condition: Verify that signing in can be done successfully.
+   Execution Steps: 1. Open the URL;
+                    2. Intoduce Email and Password;
+                    3. Click Sign In.
+  
+   Expected result: We are login in our account;
+   Actual result:   We aren't login, we receive a message error. Or Run/ Not Run.
+
+
+2. Feature name: Created Acount
+   Test Condition: Verify that creating account can be done successfully.
+   Executuion Steps: 1. Open the URL;
+                     2. Intoduce Name,Email and Password;
+                     3. Click Sign Up.
+  
+   Expected result: We receive a message that we creat our account;
+   Actual result:   Not Run.
+
+
+3. Feature Name: Login with Facebook
+   Test Condition: Verify that login with Facebook can be done successfully.
+   Execution Steps: 1. Open the URL;
+                    2. Click the bowline with "f";
+  
+   Expected result: We are sent to the facebook page;
+   Actual result:   Run.
+
+
+4. Feature Name: Forgotten password
+   Test Condition: Verify that if the user forgets the passowrd hecan recover it.
+   Execution Steps: 1. Open the URL;
+                    2. Click the "Forgot your password?";
+  
+   Expected result: We will fill out a specific password recovery form;
+   Actual result:   Run.
+
+	
