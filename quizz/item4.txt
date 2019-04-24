@@ -1,1 +1,3 @@
 Please state what is black box testing? How about white box testing? You can also give an example.
+
+In Black Box testers don't have acces at code, but in White Box testers have acces at code, so they can test the application from the code, they don't need to open the browser like should do in Black Box.
